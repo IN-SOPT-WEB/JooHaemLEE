@@ -20,13 +20,13 @@ const ids = [
   'ilmerry',
   'R1mmm',
   'Dangpy',
-  'wooyoung0803',
+  'wooyoung0830',
   'seobbang',
   'Dev-jwJeong',
   'choichoijin',
   'myeongheonhong',
+  'hyunwookchung',
   'henization',
-  'wook_did',
 ];
 
 const provideHeaders = (token: string) => {
