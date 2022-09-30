@@ -1,3 +1,51 @@
+/* @import url(./subStyle.css); */
+
 html {
   margin: 0;
+}
+
+p {
+  color: red;
+}
+
+#do {
+  background-color: blueviolet;
+}
+
+/* .four + li {
+  color:aqua;
+} */
+
+/* .A {
+  height: 500px;
+}
+
+.B {
+  height: 200px;
+  background-color: antiquewhite;
+
+  position: sticky;
+  top: 0;
+}
+
+.C {
+  height: 5000px;;
+} */
+
+.lists {
+  display: flex;
+  /* flex-direction: row-reverse; */
+  /* flex-wrap: wrap; */
+  /* justify-content: center; */
+  /* align-items: center; */
+
+  height: 500px;
+  
+  background-color: bisque;
+}
+
+.lists > li {
+  width: 100px;
+
+  /* background-color: brown; */
 }
